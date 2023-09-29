@@ -24,7 +24,6 @@ onMounted(() => {
       console.log("Host Adapter triggered:")
       console.log(e)
     }
-
   );
   console.log(AIEventAdapter)
 });
